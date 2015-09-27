@@ -1,1 +1,1 @@
-Tresc pluj a1.txt
+Tresc pliku a1.txt zmieniona 1 raz
